@@ -1,0 +1,13 @@
+﻿page-home {
+    /* nested styles only applied to page-home component */
+    /* Lets us isolate styles for each page and not interfer with other pages */
+    .score{
+            font-size: 200%;
+    }
+
+    md.ion-md-heart {
+        color: danger;
+    }
+}
+
+
